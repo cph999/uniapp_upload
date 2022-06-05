@@ -1,0 +1,1 @@
+<view><uni-data-select vue-id="f5fb01a0-1" localdata="{{range}}" value="{{value}}" data-event-opts="{{[['^change',[['change']]],['^input',[['__set_model',['','value','$event',[]]]]]]}}" bind:change="__e" bind:input="__e" bind:__l="__l"></uni-data-select></view>

@@ -1,0 +1,1 @@
+<view><uni-combox bind:input="__e" vue-id="5fbcbd00-1" label="所在城市" candidates="{{candidates}}" placeholder="请选择所在城市" emptyTips="出错了" value="{{city}}" data-event-opts="{{[['^input',[['__set_model',['','city','$event',[]]]]]]}}" bind:__l="__l"></uni-combox></view>

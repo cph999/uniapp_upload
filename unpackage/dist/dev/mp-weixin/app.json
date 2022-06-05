@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/calender/calender",
+    "pages/card/card",
+    "pages/collapse/collapse",
+    "pages/composit/composit",
+    "pages/localSelect/localSelect",
+    "pages/Eninput/Eninput",
+    "pages/upload_file/upload_file"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,1 @@
+<view class="container"><uni-badge vue-id="8dd740cc-1" size="small" text="{{1}}" absolute="rightTop" type="primary" offset="{{[10,10]}}" bind:__l="__l" vue-slots="{{['default']}}"><button type="default">通知</button></uni-badge></view>
